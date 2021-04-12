@@ -7,4 +7,4 @@ After, shortcut the main.pyw file to your startup folder.
 
 A demostration of the image is shown bellow:
 
-![image](https://github.com/agz1997/Death-Wallpaper/blob/main/image.png?raw=true)
+![image](https://github.com/agz1997/Death-Wallpaper/blob/main/imagelowres.png?raw=true)
