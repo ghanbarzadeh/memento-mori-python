@@ -101,4 +101,4 @@ image = np.array(img_pil)
 cv2.imwrite("image.png",image)
 
 
-ctypes.windll.user32.SystemParametersInfoW(20, 0, "\image.png" , 0)
+ctypes.windll.user32.SystemParametersInfoW(20, 0, "D:\Programming\Death-Wallpaper\image.png" , 0)
