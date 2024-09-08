@@ -1,4 +1,5 @@
-# Death-Wallpaper
+# Memento Mori Wallpaper
+
 A wallpaper that shows the weeks of your life.
 
 Change the birth date specified in the main.pyw file
